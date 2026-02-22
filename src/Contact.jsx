@@ -1,9 +1,9 @@
 import { NavLink } from 'react-router'
 
-export default function App() {
+export default function Contact() {
   return (
     <div className='container'>
-      <h1>Home</h1>
+      <h1>Contact</h1>
     </div>
   )
 }
